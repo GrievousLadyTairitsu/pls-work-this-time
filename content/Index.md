@@ -1,5 +1,5 @@
 ---
-title: Test
+title:
 draft: false
 tags:
 ---
