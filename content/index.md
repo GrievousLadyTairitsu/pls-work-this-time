@@ -1,7 +1,7 @@
 ---
 title: Welcome to Quartz
 ---
-hi
+![[Test.svg|498]]
 
 
 
