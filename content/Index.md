@@ -1,5 +1,5 @@
 ---
-title:
+title: Hi
 draft: false
 tags:
 ---
