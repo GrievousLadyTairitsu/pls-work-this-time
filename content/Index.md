@@ -1,9 +1,7 @@
 ---
-title: Hi
-draft: false
-tags:
+title: Welcome to Quartz
 ---
-![[Test.svg|372]]
+![[Test.svg|498]]
 
 
 
