@@ -2,9 +2,8 @@
 title: Test
 draft: false
 tags:
-  - example-tag
 ---
-![[Test.svg]]
+![[Test.svg|372]]
 
 
 
